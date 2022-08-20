@@ -1,0 +1,23 @@
+.myLogin{
+  height: 400rpx;
+  background-color: #328eeb;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.myLogin image{
+  height: 220rpx;
+  width: 220rpx;
+  border-radius: 50%;
+}
+
+.myLogin text{
+  color: white;
+}
+
+.myFavourite{
+  padding: 20rpx;
+}
+
